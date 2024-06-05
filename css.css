@@ -1,0 +1,27 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+
+}
+body{
+    
+
+}
+nav{
+    height: 50px;
+    width: 100%;
+    text-align: right;
+    background-color: brown;
+}
+a{
+
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+
+    margin: 10px;
+    padding: 20px;
+
+}
